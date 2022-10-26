@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import test from './video/VODA_홍보영상_최종랜더링.mp4'
 import {useCallback, useContext, useRef} from "react";
 import ReactPlayer from "react-player";
 import {useState, useEffect} from "react";
